@@ -1,0 +1,157 @@
+
+[{
+  "id": 1,
+  "name": "L.Messi",
+  "gender": "male",
+  "age": 33,
+  "club": "PSG-Paris Saint German",
+  "price":200000,
+  "position":"AMF",
+  "image":"https://i.ibb.co/M6KMMfG/Messi.webp"
+
+}, {
+    "id": 2,
+    "name": "C.Ronaldo",
+    "gender": "male",
+    "age": 35,
+    "club": "MU-Manchester United",
+    "price":180000,
+    "position":"RWF",
+    "image":"https://i.ibb.co/s5FJKwn/ronaldo.jpg"
+}, {
+    "id": 3,
+    "name": "Neymar Jr.",
+    "gender": "male",
+    "age": 30,
+    "club": "PSG-Paris Saint German",
+    "price":150000,
+    "position":"LWF",
+    "image":"https://i.ibb.co/0MqjBPf/Neymar.jpg"
+}, {
+  "id": 4,
+  "name": "Lewandowski",
+  "gender": "male",
+  "age":34,
+  "club": "FCB-FC Bayern Munich",
+  "price":160000,
+  "position":"FW",
+  "image":"https://i.ibb.co/b5wY4Yt/Lewandowski.jpg"
+}, {
+    "id": 5,
+    "name": "Mbapee",
+    "gender": "male",
+    "age": 26,
+    "club": "PSG-Paris Saint German",
+    "price":170000,
+    "position":"FW",
+    "image":"https://i.ibb.co/ry1cCRJ/Mbappe.jpg"
+}, {
+    "id": 6,
+    "name": "Tony Kroos",
+    "gender": "male",
+    "age": 31,
+    "club": "RM-Real Madrid",
+    "price":120000,
+    "position":"CMF",
+    "image":"https://i.ibb.co/bLJQVyF/kroos.jpg"
+}, {
+    "id": 7,
+    "name": "E.Hazard",
+    "gender": "male",
+    "age": 32,
+    "club": "CHE-Chelsea",
+    "price":110000,
+    "position":"CMF",
+    "image":"https://i.ibb.co/5BsF5gc/hazard.jpg"
+}, {
+    "id": 8,
+    "name": "Gorjinho",
+    "gender": "male",
+    "age": 28,
+    "club": "IM-Inter milan",
+    "price":80000,
+    "position":"DMF",
+    "image":"https://i.ibb.co/3vyqznP/Jorginho.jpg"
+}, {
+    "id": 9,
+    "name": "Pique",
+    "gender": "male",
+    "age": 33,
+    "club": "FCB-FC Barcelona",
+    "price":110000,
+    "position":"CB",
+    "image":"https://i.ibb.co/VxMDXjb/Pique.jpg"
+}, {
+    "id": 10,
+    "name": "Haland",
+    "gender": "male",
+    "age": 16,
+    "club": "BD-Burtia Dortmund",
+    "price":130000,
+    "position":"FW",
+    "image":"https://i.ibb.co/2dCB6gj/haland.jpg"
+}, {
+    "id": 11,
+    "name": "Puyol",
+    "gender": "male",
+    "age": 36,
+    "club": "FCB-FC Barcelona",
+    "price":100000,
+    "position":"CB",
+    "image":"https://i.ibb.co/s6YK0dh/Puyol.jpg"
+}, {
+    "id": 12,
+    "name": "Ramos",
+    "gender": "male",
+    "age": 33,
+    "club": "PSG-Paris Saint German",
+    "price":100000,
+    "position":"CB",
+    "image":"https://i.ibb.co/LCbtrxd/ramos.jpg"
+}, {
+    "id": 13,
+    "name": "Manuel Neuer",
+    "gender": "male",
+    "age": 32,
+    "club": "FCB-FC Bayern Munich",
+    "price":140000,
+    "position":"GK",
+    "image":"https://i.ibb.co/bK0rn8C/neuer.jpg"
+}, {
+    "id": 14,
+    "name": "Donnarumma",
+    "gender": "male",
+    "age": 28,
+    "club": "PSG-Paris Saint German",
+    "price":150000,
+    "position":"GK",
+    "image":"https://i.ibb.co/Btrrzpj/Donnarumma.jpg"
+}, {
+    "id": 15,
+    "name": "Filipe Luis",
+    "gender": "male",
+    "age": 30,
+    "club": "LIV-Liverpool",
+    "price":100000,
+    "position":"LB",
+    "image":"https://i.ibb.co/thwqhsk/Filipe.jpg"
+}, {
+    "id": 16,
+    "name": "Van Dijk",
+    "gender": "male",
+    "age": 30,
+    "club": "LIV-Liverpool",
+    "price":100000,
+    "position":"RB",
+    "image":"https://i.ibb.co/crFzmLg/Van-Dijk.jpg"
+
+}, {"id": 17,
+    "name": "A.Iniesta",
+    "gender": "male",
+    "age": 29,
+    "club": "FCB-FC Barcelona",
+    "price":130000,
+    "position":"CMF",
+    "image":"https://i.ibb.co/JxMK5N4/Iniesta.jpg"
+}]
+

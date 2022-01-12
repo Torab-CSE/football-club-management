@@ -1,0 +1,33 @@
+.header{
+    width:100%;
+    font-size: 15px;
+}
+.title-name{
+    height:70px;
+    text-align: center;
+    background-color: blue;
+}
+.title-name h1{
+    color:red;
+    text-transform: capitalize;
+}
+.brand{
+    text-decoration: none;
+    font-size: 22px;
+    color: RED;
+    font-weight: 600;
+    padding-right: 30px;
+}
+.brand:hover{
+    color:blue;
+}
+.nav-link{
+    font-size: 18px;
+    padding-right: 20px;
+}
+.nav-link:hover{
+    color: crimson;
+}
+.nav-container{
+    height:50px;
+}

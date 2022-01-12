@@ -1,0 +1,15 @@
+.player-container{
+    border:1px solid black;
+    margin-bottom: 10px;
+}
+.player-image img{
+    width:100%;
+    height:250px;
+}
+.player-details button{ 
+    margin-top: 1px;
+}
+.player-container button:hover{
+    background-color: black;
+    color:skyblue;
+}

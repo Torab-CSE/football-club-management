@@ -1,0 +1,16 @@
+.team-head{
+    background-color: steelblue;
+    text-align: center;
+    text-justify: auto;
+    margin-bottom: 10px;
+    border:1px solid black;
+}
+.team-head h1{
+    color: maroon;
+}
+.team-select h4{
+    color:seagreen;
+}
+.team-cost h4{
+    color:darkred
+}
